@@ -2,7 +2,8 @@ Iniciando archivo 2
 segundo archivo
 linea 3
 linea 4
-linea 5
+linea INTERMEDIO
 linea 6
 esto es nuevo?
 ya cambio el archivo
+LINEA 10
